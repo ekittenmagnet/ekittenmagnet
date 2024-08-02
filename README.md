@@ -1,7 +1,7 @@
 > [!CAUTION]  
 > Cryptographer, hacker, inquisitor.
 
-> [!ALERT]
+> [!INFO]
 > HI
 
 > [!DANGER]
