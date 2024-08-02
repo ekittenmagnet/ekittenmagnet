@@ -1,6 +1,12 @@
 > [!CAUTION]  
 > Cryptographer, hacker, inquisitor.
 
+> [!ALERT]
+> HI
+
+> [!DANGER]
+> HI
+
 <p>
   <a href="https://github.com/ekittenmagnet"><img src="https://img.shields.io/badge/Visual%20Basic-945D32?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Basic"></a>
   <a href="https://github.com/ekittenmagnet"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"></a>
